@@ -1,2 +1,2 @@
-# sap-btp-cf-training
-SAP BTP and CF Basics Training
+# SAP Business Technology Platform and Cloud Foundry Basics Training
+SAP Business Technology Platform and Cloud Foundry Basics Training
