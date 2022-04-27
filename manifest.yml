@@ -1,0 +1,8 @@
+applications:
+  - name: my-first-app-i539859-v1-0-0
+    memory: 1GB
+    path: target/myFirstApp-0.0.1-SNAPSHOT.jar
+    buildpacks:
+      - java_buildpack
+    routes:
+      - route: my-first-app-i539859.cfapps.us10.hana.ondemand.com
