@@ -8,7 +8,7 @@ public class testController {
 
 	@GetMapping("/version")
 	public String getVersion() {
-		return "Hello World. My Version is 1.0.0";
+		return "Hello World. My Version is 1.0.1";
 	}
 
 }

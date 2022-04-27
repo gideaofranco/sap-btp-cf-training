@@ -1,5 +1,5 @@
 applications:
-  - name: my-first-app-i539859-v1-0-0
+  - name: my-first-app-i539859-v1-0-1
     memory: 1GB
     path: target/myFirstApp-0.0.1-SNAPSHOT.jar
     buildpacks:
